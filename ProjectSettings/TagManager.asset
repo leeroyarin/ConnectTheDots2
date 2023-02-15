@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ball
+  - answer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - CantDrawMask
+  - PostProcessingLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GroundLayer
+    uniqueID: 3821012613
+    locked: 0
+  - name: BallLayer
+    uniqueID: 930114455
+    locked: 0
+  - name: TextLayer
+    uniqueID: 3764876137
+    locked: 0
+  - name: LineLayer
+    uniqueID: 11545411
+    locked: 0
+  - name: Container
+    uniqueID: 956175703
+    locked: 0
+  - name: UI
+    uniqueID: 4122019581
+    locked: 0

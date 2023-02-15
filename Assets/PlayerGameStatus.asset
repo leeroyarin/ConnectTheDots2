@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 197473262c3afa642aeb79a279abb414, type: 3}
+  m_Name: PlayerGameStatus
+  m_EditorClassIdentifier: 
+  playerName: TeroBAu
+  playersLevelCompletion: 0
+  playersLevelCompleted: 0000000000000000
+  playerLevelRestartCount: 17
+  playerLevelFailureCount: 2
+  totalGameLevels: 7
+  playMusic: 1
+  musicVolumeLevel: 0
+  playAudio: 1
+  audioVolumeLevel: 0.35
+  lineColor:
+    serializedVersion: 2
+    key0: {r: 0.6509804, g: 0.19607843, b: 0.4392157, a: 1}
+    key1: {r: 0.05660379, g: 0.0532218, b: 0.055029415, a: 1}
+    key2: {r: 0.6509804, g: 0.19607843, b: 0.4392157, a: 0.21176471}
+    key3: {r: 0.6509804, g: 0.19607843, b: 0.4392157, a: 0.21176471}
+    key4: {r: 0.6509804, g: 0.19607843, b: 0.4392157, a: 0.21176471}
+    key5: {r: 0.6509804, g: 0.19607843, b: 0.4392157, a: 0.21176471}
+    key6: {r: 0.6509804, g: 0.19607843, b: 0.4392157, a: 0.21176471}
+    key7: {r: 0.6509804, g: 0.19607843, b: 0.4392157, a: 0.21176471}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 65535
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
